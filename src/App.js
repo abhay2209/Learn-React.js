@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return (
+  return (//This n is js x which is javascript XML thi decides ho UI will look like, output of our app componenet. Babble takes this and converst this into js code
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
